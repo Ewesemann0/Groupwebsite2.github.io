@@ -1,1 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f1fa;
+    text-align: center;
+}
 
+h1 {
+    color: #5e35b1;
+    font-size: 36px;
+}
+
+h2 {
+    color: #6a4c93;
+}
+
+h3 {
+    color: #333333;
+}
+
+a {
+    display: block;
+    background-color: white;
+    color: #5e35b1;
+    font-size: 18px;
+    padding: 15px;
+    margin: 15px auto;
+    width: 250px;
+    border-radius: 10px;
+}
+
+a:hover {
+    background-color: #5e35b1;
+    color: white;
+}
+
+p {
+    color: #333333;
+    font-size: 18px;
+}
