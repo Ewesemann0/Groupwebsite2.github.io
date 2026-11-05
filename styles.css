@@ -1,28 +1,33 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f1fa;
+    font-family: Poppins, sans-serif;
+    background-color: #000000;
     text-align: center;
 }
 
 h1 {
-    color: #5e35b1;
+    color: #c4a1ff;
     font-size: 36px;
+    margin-bottom: 50px;
 }
 
 h2 {
-    color: #6a4c93;
-    margin-bottom: 50px;
-
+    color: #70d6ff;
 }
 
 h3 {
-    color: #333333;
+    color: #ffd670;
+}
+
+p {
+    color: #ff9fba;
+    font-size: 18px;
 }
 
 a {
     display: block;
     background-color: white;
     color: #5e35b1;
+    text-decoration: none;
     font-size: 18px;
     padding: 15px;
     margin: 15px auto;
@@ -31,11 +36,6 @@ a {
 }
 
 a:hover {
-    background-color: #5e35b1;
-    color: white;
-}
-
-p {
-    color: #333333;
-    font-size: 18px;
+    background-color: white;
+    color: #9b59b6;
 }
